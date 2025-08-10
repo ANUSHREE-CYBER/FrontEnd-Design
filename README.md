@@ -1,1 +1,1 @@
-# FrontEnd-Design
+This project is a responsive, interactive portfolio/landing page inspired by a Nike product design. It was first created in Figma and then built using HTML, CSS, and jQuery. The page features smooth animations, button hover effects, and visually appealing layouts that adapt to different screen sizes. All assets, including the Nike logo, product image, background ellipses, and shadows, are exported from Figma to ensure design accuracy.
